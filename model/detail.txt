@@ -1,0 +1,8 @@
+MODEL
+huggingface: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+
+model=llama-2-7b-chat.ggmlv3.q4_0.bin  
+
+EMBEDDING
+huggingface : https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
