@@ -1,15 +1,15 @@
 # MED-BOT
 ## medical chatbot using llama-2
-'''bash
+```bash
 conda create -p env python=3.8 -y
-'''
+```
 
-'''bash
+```bash
 source activate ./env
-'''
+```
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 ## model: 
 ### llama-2-7b-chat.ggmlv3.q4_0.bin
