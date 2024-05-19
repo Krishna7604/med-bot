@@ -7,4 +7,5 @@ python-dotenv
 PyPDF
 langchain_pinecone
 pinecone_text
+openai
 -e .
